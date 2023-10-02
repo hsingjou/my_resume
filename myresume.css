@@ -70,7 +70,7 @@ body{
     transform: translate(-20%,0%);
 }
 #html_css{
-    border-color: #AD5A5A #AD5A5A #AD5A5A #D9B3B3;
+    border-color: #AD5A5A #AD5A5A #D9B3B3 #D9B3B3;
     background-color: transparent;
     transform: rotate(45deg);
 }
